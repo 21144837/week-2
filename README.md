@@ -4,8 +4,6 @@ def main():
     print(mystery(a,b))
 
 def mystery(x,y):
-    z=x+y
-    z=z/2.0
-    return z
+    z=x
 
 main()
