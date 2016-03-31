@@ -5,7 +5,7 @@ def main():
 
 def mystery(x,y):
     z=x+y
-    z=z/2.0
+ 
     return z
 
 main()
